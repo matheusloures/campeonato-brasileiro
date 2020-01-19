@@ -5,6 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+results.json
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
@@ -39,6 +40,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+escudos/
+listas/
 jspm_packages/
 
 # TypeScript v1 declaration files
